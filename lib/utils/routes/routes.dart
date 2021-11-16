@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:vdev_test_project/data/repository.dart';
-import 'package:vdev_test_project/di/components/service_locator.dart';
 import 'package:vdev_test_project/screens/dashboard/dashboard.dart';
 import 'package:vdev_test_project/screens/login/login.dart';
-import 'package:vdev_test_project/stores/form/form_store.dart';
-import 'package:vdev_test_project/stores/user/user_store.dart';
 
 class Routes {
   Routes._();

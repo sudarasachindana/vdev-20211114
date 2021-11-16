@@ -1,7 +1,7 @@
 import 'package:sembast/sembast.dart';
 import 'package:vdev_test_project/data/local/constants/db_constants.dart';
-import 'package:vdev_test_project/models/post/category.dart';
-import 'package:vdev_test_project/models/post/category_list.dart';
+import 'package:vdev_test_project/models/category/category.dart';
+import 'package:vdev_test_project/models/category/category_list.dart';
 
 class PostDataSource {
   // A Store with int keys and Map<String, dynamic> values.

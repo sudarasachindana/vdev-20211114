@@ -3,7 +3,7 @@ import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 import 'package:sembast/sembast.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:vdev_test_project/data/network/apis/posts/category_api.dart';
+import 'package:vdev_test_project/data/network/apis/category/category_api.dart';
 import 'package:vdev_test_project/data/network/dio_client.dart';
 import 'package:vdev_test_project/data/network/rest_client.dart';
 import 'package:vdev_test_project/data/repository.dart';

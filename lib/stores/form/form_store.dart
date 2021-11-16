@@ -50,7 +50,7 @@ abstract class _FormStore with Store {
 
 
   @observable
-  Map<String, String> userMap = {'joe@black.lk': 'Jo45*78', 'amal@acme.lk': 'La79*!_i', 'peter@pan.lk': 'Nap42-24', 'abc@a.lk': '123456' };
+  Map<String, String> userMap = {'joe@black.lk': 'Jo45*78', 'amal@acme.lk': 'La79*!_i', 'peter@pan.lk': 'Nap42-24'};
 
   @computed
   bool get canLogin =>

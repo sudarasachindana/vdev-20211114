@@ -1,11 +1,9 @@
 import 'dart:async';
 
-import 'package:sembast/sembast.dart';
 import 'package:vdev_test_project/data/sharedpref/shared_preference_helper.dart';
-import 'package:vdev_test_project/models/post/category.dart';
-import 'package:vdev_test_project/models/post/category_list.dart';
+import 'package:vdev_test_project/models/category/category_list.dart';
 
-import 'network/apis/posts/category_api.dart';
+import 'network/apis/category/category_api.dart';
 
 class Repository {
 

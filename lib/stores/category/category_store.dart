@@ -1,6 +1,6 @@
 import 'package:mobx/mobx.dart';
 import 'package:vdev_test_project/data/repository.dart';
-import 'package:vdev_test_project/models/post/category_list.dart';
+import 'package:vdev_test_project/models/category/category_list.dart';
 import 'package:vdev_test_project/stores/error/error_store.dart';
 import 'package:vdev_test_project/utils/dio/dio_error_util.dart';
 

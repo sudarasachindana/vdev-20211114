@@ -1,4 +1,4 @@
-import 'package:vdev_test_project/models/post/category.dart';
+import 'package:vdev_test_project/models/category/category.dart';
 
 class CategoryList {
   final List<Category>? categoryList;

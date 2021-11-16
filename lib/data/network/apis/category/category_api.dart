@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:vdev_test_project/data/network/constants/endpoints.dart';
 import 'package:vdev_test_project/data/network/dio_client.dart';
 import 'package:vdev_test_project/data/network/rest_client.dart';
-import 'package:vdev_test_project/models/post/category_list.dart';
+import 'package:vdev_test_project/models/category/category_list.dart';
 
 class CategoryApi {
   // dio instance
