@@ -111,7 +111,7 @@ Now, lets dive into the lib folder which has the main code for the application.
 ```
 1- constants - All the application level constants are defined in this directory with-in their respective files. This directory contains the constants for `theme`, `dimentions`, `api endpoints`, `preferences` and `strings`.
 2- data - Contains the data layer of your project, includes directories for local, network and shared pref/cache.
-3- models/ – contains all the plain data models.
+3- models – Contains all the plain data models.
 4- stores - Contains store(s) for state-management of your application, to connect the reactive data of your application with the UI. 
 5- screens — Contains all the ui of your project, contains sub directory for each screen.
 6- util — Contains the utilities/common functions of your application.
@@ -224,8 +224,5 @@ class Routes {
 
 
 
-## Constants
-This directory contains all the application level constants. A separate file is created for each type as shown in example below:
-```
-flutter pub get 
-```
+## UI Screens
+
